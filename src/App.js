@@ -7,6 +7,7 @@ import NotFound from './components/NotFound'
 import Home from './components/Home'
 import Webcam from './components/Webcam';
 import Blogs from './components/Blogs'
+import './App.css'
 
 const App = () => (
  <BrowserRouter>
